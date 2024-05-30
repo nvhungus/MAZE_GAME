@@ -1,0 +1,16 @@
+{
+    "nhom1": {
+        "level": [
+            "  easy",
+            "  easy",
+            "medium",
+            "  easy"
+        ],
+        "time": [
+            3,
+            12,
+            3,
+            12
+        ]
+    }
+}
