@@ -3,6 +3,8 @@ Tam and Gia Huy is the title of our project, a Python-based game. This folder al
 We belong to group 11, class 23TNT1 at Ho Chi Minh City University of Sciences, specializing in Advanced Programming for Artificial Intelligence. Our team members are Nguyen Trong Hoa, Phan Huynh Chau Thinh, Tran Chi Nguyen, Kpuih Thuing, and Nguyen Viet Hung. 
 We are delighted to share this with you.
 Best regards.
+# USING
+You can download the folder I posted and use it by running "main.py".
 # DEMO
 Link video demo: https://youtu.be/TbkT5Lix9Zc
 # SUMMARY
