@@ -1,6 +1,6 @@
 # MAZE_GAME: Tam and Gia Huy
 Tam and Gia Huy is the title of our project, a Python-based game. This folder allows you to visually explore and reference the game.
-We belong to group 11, class 23TNT1 at Ho Chi Minh City University of Science, specializing in Advanced Programming for Artificial Intelligence. Our team members are Nguyen Trong Hoa, Phan Huynh Chau Thinh, Tran Chi Nguyen, Kpuih Thuing, and Nguyen Viet Hung. 
+We belong to group 11, class 23TNT1 at Ho Chi Minh City University of Science, specializing in Advanced Programming for Artificial Intelligence. Our team members are Nguyen Trong Hoa, Phan Huynh Chau Thinh, Tran Chi Nguyen, Kpuih Thuing, and Nguyen Viet Hung. Under the guidance of the instructors: Dr. Nguyen Tien Huy, Dr. Le Thanh Tung and Mr. Nguyen Tran Duy Minh.
 We are delighted to share this with you.
 Best regards.
 # USING
